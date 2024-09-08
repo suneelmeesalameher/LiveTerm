@@ -1,13 +1,13 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
   "title": "LiveTerm",
-  "name": "John Doe",
+  "name": "MeherSuneel Meesala",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/suneelmeesalameher",
+    "linkedin": "https://www.linkedin.com/in/meher-suneel-meesala/"
   },
-  "email": "contact@email.com",
+  "email": "mmeesala@gmu.edu",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
